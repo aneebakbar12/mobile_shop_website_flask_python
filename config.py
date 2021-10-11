@@ -1,7 +1,4 @@
-{
-
-  "params":
-  {
+params = {
     "local_server": "True",
     "local_uri": "mysql://root:@localhost/mobiletech",
     "prod_uri": "mysql://root:@localhost/mobiletech",
@@ -9,10 +6,6 @@
     "gh_url": "https://github.com/codingthunder",
     "tw_url": "https://twitter.com/codingthunder",
     "gmail_user": "aneeb458@gmail.com",
-    "gmail_password": "yyyy"
-
-
-
-
+    "gmail_password": "Enter your password"
   }
-}
+
